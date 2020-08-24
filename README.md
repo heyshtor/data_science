@@ -1,11 +1,11 @@
-##Completed Data Science Test
+# Completed Data Science Test
 
-Contains:
+## Contains:
 Jupyter Notebook file with analysis;
 its .py and .html copies;
 original .json file with the data.
 
-Requirements:
+## Requirements:
 
 - calculation:
 pip install pandas
