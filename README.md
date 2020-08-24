@@ -1,25 +1,27 @@
 # Completed Data Science Test
 
 ## Contains:
-Jupyter Notebook file with analysis;
-its .py and .html copies;
-original .json file with the data.
+
+- Jupyter Notebook file with analysis;
+- its .py and .html copies;
+- original .json file with the data.
 
 ## Requirements:
 
-- calculation:
-pip install pandas
-pip install numpy
+### calculation:
 
-- charts:
-pip install matplotlib
-pip install seaborn
+- pip install pandas
+- pip install numpy
 
-- IP search
-pip install ip2geotools
+### charts:
+- pip install matplotlib
+- pip install seaborn
 
-- building models:
-pip install sklearn
+### IP search
+- pip install ip2geotools
 
-- feature selection
-pip install mlxtend
+### building models:
+- pip install sklearn
+
+### feature selection
+- pip install mlxtend
